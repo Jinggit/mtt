@@ -3306,6 +3306,10 @@ vars.put(&quot;sellstop&quot;,sellstop+&quot;&quot;);
           <stringProp name="filename">Y:\Downloads\log.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
+        <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
+          <stringProp name="ConstantTimer.delay">100</stringProp>
+        </ConstantTimer>
+        <hashTree/>
       </hashTree>
     </hashTree>
   </hashTree>
